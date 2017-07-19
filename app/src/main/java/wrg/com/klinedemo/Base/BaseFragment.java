@@ -12,7 +12,7 @@ import wrg.com.klinedemo.R;
 import wrg.com.klinedemo.Util.ScreenUtil;
 
 /**
- * Created by Wneg on 2016/9/26.10:31
+ * Created by Weng on 2016/9/26.10:31
  */
 public abstract class BaseFragment extends Fragment {
 
