@@ -19,7 +19,7 @@ import wrg.com.klinedemo.R;
 import wrg.com.klinedemo.Util.ScreenUtil;
 
 /**
- * Created by Ken on 2016/9/26.9:47
+ * Created by Weng 016/9/26.9:47
  * Activity的基类
  */
 public abstract class BaseActivity extends AppCompatActivity {
